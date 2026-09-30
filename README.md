@@ -15,5 +15,3 @@ pip install -r requirements.txt
 ```powershell
 python main.py
 ```
-
-EMNIST tự download lần đầu (~500MB vào thư mục `data/`).
